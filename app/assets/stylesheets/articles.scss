@@ -1,0 +1,60 @@
+// Place all the styles related to the Articles controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.articles-container {
+  width: 400px;
+  margin: 0 auto;
+}
+
+.articles-container h1 {
+  font-size: 24px;
+  color: #1b262c;
+  color: #0f4c75;
+}
+
+.articles-container h3 {
+  font-size: 16px;
+  margin: 4px 0;
+  font-weight: 500;
+  color: #0f4c75;
+}
+
+.articles-container h3 > a {
+  text-decoration: none;
+  color: #0f4c75;
+}
+
+.articles-container p {
+  font-size: 12px;
+  margin: 4px 0 12px 0;
+  color: #0f4c75d0;
+}
+
+.article-container h1 {
+  display: flex;
+}
+
+.icon-link {
+  padding: 0 8px;
+}
+
+.btn-primary {
+  background-color: #3282b8;
+  color: white;
+  font-size: 12px;
+  padding: 8px 16px;
+  border-radius: 4px;
+  text-decoration: none;
+}
+
+.btn-primary:hover {
+  color: #bbe1fa;
+}
+
+.article-content {
+  padding: 16px 0;
+  border-top: 1px solid #1b262c40;
+  border-bottom: 1px solid #1b262c40;
+}
+
