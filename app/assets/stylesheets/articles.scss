@@ -39,22 +39,27 @@
   padding: 0 8px;
 }
 
-.btn-primary {
-  background-color: #3282b8;
-  color: white;
-  font-size: 12px;
-  padding: 8px 16px;
-  border-radius: 4px;
-  text-decoration: none;
-}
+// .btn-primary {
+//   background-color: #3282b8;
+//   color: white;
+//   font-size: 12px;
+//   padding: 8px 16px;
+//   border-radius: 4px;
+//   text-decoration: none;
+// }
 
-.btn-primary:hover {
-  color: #bbe1fa;
-}
+// .btn-primary:hover {
+//   color: #bbe1fa;
+// }
 
 .article-content {
   padding: 16px 0;
   border-top: 1px solid #1b262c40;
   border-bottom: 1px solid #1b262c40;
+}
+
+form {
+  margin: 16px 0;
+  font-size: 16px;
 }
 
